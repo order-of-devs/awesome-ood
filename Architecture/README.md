@@ -36,7 +36,6 @@
 
 [](https://reimagined.github.io/resolve/)[https://reimagined.github.io/resolve/](https://reimagined.github.io/resolve/)
 
-[](https://miro.com/app/board/uXjVO-z0G_4=/?invite_link_id=536137815669)[https://miro.com/app/board/uXjVO-z0G_4=/?invite_link_id=536137815669](https://miro.com/app/board/uXjVO-z0G_4=/?invite_link_id=536137815669)
 
 [](https://miro.com/app/board/uXjVOALeOUc=/)[https://miro.com/app/board/uXjVOALeOUc=/](https://miro.com/app/board/uXjVOALeOUc=/)
 
@@ -54,7 +53,6 @@
 
 [](https://www.youtube.com/watch?v=SqFFCTNyi88)[https://www.youtube.com/watch?v=SqFFCTNyi88](https://www.youtube.com/watch?v=SqFFCTNyi88)
 
-[](https://app.mural.co/t/pythoneerguru1756/m/pythoneerguru1756/1665936023800/1bd676fa6a0d456ff0fae9ef40610a911aeeb91a?sender=11f61113-43ef-4ad5-808b-d16012bf207f)[https://app.mural.co/t/pythoneerguru1756/m/pythoneerguru1756/1665936023800/1bd676fa6a0d456ff0fae9ef40610a911aeeb91a?sender=11f61113-43ef-4ad5-808b-d16012bf207f](https://app.mural.co/t/pythoneerguru1756/m/pythoneerguru1756/1665936023800/1bd676fa6a0d456ff0fae9ef40610a911aeeb91a?sender=11f61113-43ef-4ad5-808b-d16012bf207f)
 
 Togaf [](https://pubs.opengroup.org/architecture/togaf9-doc/arch/)[https://pubs.opengroup.org/architecture/togaf9-doc/arch/](https://pubs.opengroup.org/architecture/togaf9-doc/arch/)
 
